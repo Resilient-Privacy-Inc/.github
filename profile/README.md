@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/resilient-logo.svg" width="280" alt="Resilient Privacy" />
+<img src="resilient-logo.svg" width="280" alt="Resilient Privacy" />
 
 # Resilient Privacy Inc.
 
