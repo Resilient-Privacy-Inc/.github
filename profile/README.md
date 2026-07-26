@@ -131,7 +131,7 @@ The **Kanshi Scrum board** is 100% open-source under Apache 2.0, a free forever 
 | Sales | [sales@resilientprivacy.com](mailto:sales@resilientprivacy.com) |
 | General | [hello@resilientprivacy.com](mailto:hello@resilientprivacy.com) |
 | Security | [security@resilientprivacy.com](mailto:security@resilientprivacy.com) |
-| Careers | [binary.so](https://binary.so) |
+| Careers | (https://binary.so/resilient-privacy-inc) |
 
 ---
 
