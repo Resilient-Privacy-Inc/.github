@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="resilient-logo.svg" width="280" alt="Resilient Privacy" />
+<img src="logo-animation.gif" width="400" alt="Resilient Privacy — 3D ASCII Logo Animation" />
 
 # Resilient Privacy Inc.
 
