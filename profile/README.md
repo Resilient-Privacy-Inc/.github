@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo-animation.gif" width="400" alt="Resilient Privacy — 3D ASCII Logo Animation" />
+<img src="logo-animation.gif" width="420" alt="Resilient Privacy · 3D ASCII Logo Animation" />
 
 # Resilient Privacy Inc.
 
@@ -21,7 +21,7 @@
 Resilient Privacy builds an **ontology-driven governance platform** for companies that have outgrown informal processes but cannot justify the cost, implementation burden, or internal staffing required by enterprise platforms. We serve mid-market companies (20–1,000 employees) that need enterprise-grade governance before they can afford enterprise-grade operational platforms.
 
 > [!IMPORTANT]
-> We are not a chatbot bolted onto a search engine. We are an **operations layer** with governed actions, risk-level classification, and tamper-evident audit trails — built on a Go-first architecture where the model proposes, Go decides, Go executes, and Go audits.
+> We are not a chatbot bolted onto a search engine. We are an **operations layer** with governed actions, risk-level classification, and tamper-evident audit trails, built on a Go-first architecture where the model proposes, Go decides, Go executes, and Go audits.
 
 ---
 
@@ -48,7 +48,7 @@ Every employee gets one secure place to ask company-specific questions, find own
 
 A unified administrative console for IT and operations teams.
 
-Manage users, devices, access, tickets, assets, and security from one dashboard — powered by an AI cognitive engine with LangGraph agents.
+Manage users, devices, access, tickets, assets, and security from one dashboard, powered by an AI cognitive engine with LangGraph agents.
 
 </td>
 </tr>
@@ -112,13 +112,13 @@ Starting with **NIST 800-171 / CMMC** for government contractors.
 </table>
 
 > [!TIP]
-> Not sure which plan fits? Start with a 14-day trial — no credit card required. Upgrade or downgrade anytime.
+> Not sure which plan fits? Start with a 14-day trial. No credit card required. Upgrade or downgrade anytime.
 
 ---
 
 ## Open Source
 
-The **Kanshi Scrum board** is 100% open-source under Apache 2.0 — a free forever alternative to Jira / ClickUp / Monday where AI agents participate as first-class Scrum teammates.
+The **Kanshi Scrum board** is 100% open-source under Apache 2.0, a free forever alternative to Jira / ClickUp / Monday where AI agents participate as first-class Scrum teammates.
 
 ---
 
@@ -138,7 +138,7 @@ The **Kanshi Scrum board** is 100% open-source under Apache 2.0 — a free forev
 ## License
 
 > [!CAUTION]
-> This repository and all products within are **proprietary** — Resilient Privacy Inc. All rights reserved.
+> This repository and all products within are **proprietary** · Resilient Privacy Inc. All rights reserved.
 >
 > The Kanshi Scrum board is the sole exception, licensed under Apache 2.0.
 
