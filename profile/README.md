@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="resilient-landing/public/resilient-logo.svg" width="280" alt="Resilient Privacy" />
+<img src="profile/resilient-logo.svg" width="280" alt="Resilient Privacy" />
 
 # Resilient Privacy Inc.
 
@@ -10,7 +10,7 @@
 [![Docs](https://img.shields.io/badge/Docs-docs.kanshi.security-blue?style=flat-square)](https://docs.kanshi.security/)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](#license)
 [![Open Source](https://img.shields.io/badge/Kanshi_Scrum-Apache--2.0-green?style=flat-square)](#open-source)
-[![3D ASCII](https://img.shields.io/badge/View-3D_ASCII_Animation-brightgreen?style=flat-square)](logo-animation/index.html)
+[![3D ASCII](https://img.shields.io/badge/View-3D_ASCII_Animation-brightgreen?style=flat-square)](https://htmlpreview.github.io/?https://github.com/Resilient-Privacy-Inc/.github/blob/dev/profile/logo-animation.html)
 
 </div>
 
