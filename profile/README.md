@@ -2,7 +2,7 @@
 
 <img src="logo-animation.gif" width="420" alt="Resilient Privacy · 3D ASCII Logo Animation" />
 
-# Resilient Privacy Inc.
+# Launch Texas LLC.
 
 **Turning fragmented company data into structured operations, governed AI actions, and decision-ready intelligence.**
 
